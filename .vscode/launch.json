@@ -5,7 +5,18 @@
             "request": "launch",
             "type": "dart",
             "program": "lib/text_widgets/text_widget.dart"
-
+        },
+        {
+            "name": "Text_Widget",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/text_widgets/text_widget_intermeduim.dart"
+        },
+        {
+            "name": "Text_Widget_API",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/text_widgets/textwidgetAdvance.dart"
         }
     ]
 }
