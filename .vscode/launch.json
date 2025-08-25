@@ -17,6 +17,12 @@
             "request": "launch",
             "type": "dart",
             "program": "lib/text_widgets/textwidgetAdvance.dart"
+        },
+        {
+            "name": "Text_Widget_Image",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/image/imagesWidget.dart"
         }
     ]
 }
